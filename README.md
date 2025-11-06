@@ -20,7 +20,17 @@ The system uses a conversational interface to provide contextual tutoring on Pyt
 5. Run the app locally:
 ```bash streamlit run app.py ```
 
- 
+Interactive Python tutoring via a conversational interface
+
+Context-aware explanations for beginner to intermediate topics
+
+Retro arcade-style Streamlit UI for an engaging experience
+
+Dynamic hints and examples for coding exercises
+
+Persistent chat view that retains session history (optional)
+
+Customizable agent logic via agent.py
 
 
 
